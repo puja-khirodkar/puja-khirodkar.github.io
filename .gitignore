@@ -1,0 +1,26 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundle
+.bundle/
+
+# Ruby
+*.gem
+*.rbc
+.ruby-version
+.ruby-gemset
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local config
+_config.local.yml
